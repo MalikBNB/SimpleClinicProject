@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\MyProjects\SimpleClinic\SimpleClinic.Shell\obj\Debug\
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\obj\Debug\
 SimpleClinic.Shell
 none
 false
 DEBUG;TRACE
-D:\MyProjects\SimpleClinic\SimpleClinic.Shell\App.xaml
-1219584333
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\App.xaml
+161772463918
 
-6-793535042
-13-38814620
-MainWindow.xaml;
+201146448745
+17-817792664
+MainWindow.xaml;Resources\ViewResource.xaml;Views\Appointment\AppointmentManageWindow.xaml;Views\Appointment\AppointmentUc.xaml;Views\Doctor\DoctorManageWindow.xaml;Views\Doctor\DoctorUc.xaml;Views\MedicalRecord\MedicalRecordManageWindow.xaml;Views\MedicalRecord\MedicalRecordUc.xaml;Views\Payment\PaymentManageWindow.xaml;Views\Payment\PaymentUc.xaml;Views\Persons\PersonManageWindw.xaml;Views\Persons\PersonsUc.xaml;Views\Prescription\PrescriptionManageWindow.xaml;Views\Prescription\PrescriptionUc.xaml;Views\Ptient\PatientManageWindow.xaml;Views\Ptient\PatientUc.xaml;
 
-True
+False
 

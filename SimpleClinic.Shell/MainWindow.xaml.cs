@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimpleClinic.Data.Layers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Data.Entity;
 
 namespace SimpleClinic.Shell
 {
@@ -23,6 +25,15 @@ namespace SimpleClinic.Shell
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+            using (var db = new AppDbContext())
+            {
+                
+            }
+
         }
     }
 }

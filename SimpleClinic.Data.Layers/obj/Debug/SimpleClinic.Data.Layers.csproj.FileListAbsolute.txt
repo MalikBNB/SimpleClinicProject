@@ -1,0 +1,14 @@
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.csproj.AssemblyReference.cache
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.csproj.CoreCompileInputs.cache
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\SimpleClinic.Data.Layers.dll.config
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\SimpleClinic.Data.Layers.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\SimpleClinic.Data.Layers.pdb
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\EntityFramework.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\EntityFramework.xml
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleCl.D0033918.Up2Date
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.pdb
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.Migrations.InitialCreate.resources
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.csproj.GenerateResource.cache
