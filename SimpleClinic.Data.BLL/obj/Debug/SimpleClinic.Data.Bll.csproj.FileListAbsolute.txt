@@ -1,0 +1,15 @@
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\obj\Debug\SimpleClinic.Data.Bll.csproj.AssemblyReference.cache
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\obj\Debug\SimpleClinic.Data.Bll.csproj.CoreCompileInputs.cache
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Bll.dll.config
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Bll.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Bll.pdb
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\EntityFramework.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Layers.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Layers.pdb
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\SimpleClinic.Data.Layers.dll.config
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\EntityFramework.xml
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\obj\Debug\SimpleCl.2F3A255F.Up2Date
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\obj\Debug\SimpleClinic.Data.Bll.dll
+D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Bll\obj\Debug\SimpleClinic.Data.Bll.pdb
