@@ -46,7 +46,7 @@
     
     mimetype: application/x-microsoft.net.object.binary.base64
     value   : The object must be serialized with 
-            : System.Serialization.Formatters.Binary.BinaryFormatter
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
             : and then encoded with base64 encoding.
     
     mimetype: application/x-microsoft.net.object.soap.base64
@@ -60,6 +60,7 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
@@ -68,9 +69,10 @@
               <xsd:sequence>
                 <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="name" use="required" type="xsd:string" />
               <xsd:attribute name="type" type="xsd:string" />
               <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
@@ -85,9 +87,10 @@
                 <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
                 <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
               <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
               <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
@@ -109,9 +112,147 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Command_Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="Command_Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Command_Edit" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="Command_EmptyFields" xml:space="preserve">
+    <value>Empty fields</value>
+  </data>
+  <data name="Command_ExportExcel" xml:space="preserve">
+    <value>Export excel</value>
+  </data>
+  <data name="Command_Favorite" xml:space="preserve">
+    <value>Favorite</value>
+  </data>
+  <data name="Command_GridColumnsChooser" xml:space="preserve">
+    <value>Displayed columns</value>
+  </data>
+  <data name="Command_GridDeleteFilters" xml:space="preserve">
+    <value>Delete Filters</value>
+  </data>
+  <data name="Command_GridFilter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="Command_GridFilterEditor" xml:space="preserve">
+    <value>Filter editor</value>
+  </data>
+  <data name="Command_GridLayout" xml:space="preserve">
+    <value>Table appearance</value>
+  </data>
+  <data name="Command_GridResetLayout" xml:space="preserve">
+    <value>Reset the appearance</value>
+  </data>
+  <data name="Command_GridSavedFilters" xml:space="preserve">
+    <value>Saved filters</value>
+  </data>
+  <data name="Command_GridSaveFilter" xml:space="preserve">
+    <value>Save the filter</value>
+  </data>
+  <data name="Command_GridSaveLayout" xml:space="preserve">
+    <value>Save the appearance</value>
+  </data>
+  <data name="Command_New" xml:space="preserve">
+    <value>New</value>
+  </data>
+  <data name="Command_Refresh" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="Command_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Command_SaveAndClose" xml:space="preserve">
+    <value>Save &amp; Close</value>
+  </data>
+  <data name="Command_SaveAndNew" xml:space="preserve">
+    <value>Save &amp; New</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="GridControl_ItemsCount" xml:space="preserve">
+    <value>Count={0}</value>
+  </data>
+  <data name="GridControl_SelectedItemsCount" xml:space="preserve">
+    <value>Selected={0}</value>
+  </data>
+  <data name="Property_Address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="Property_Created" xml:space="preserve">
+    <value>Creation date</value>
+  </data>
+  <data name="Property_Creator" xml:space="preserve">
+    <value>Creator</value>
+  </data>
+  <data name="Property_DateCreation" xml:space="preserve">
+    <value>Creation date</value>
+  </data>
+  <data name="Property_DateModification" xml:space="preserve">
+    <value>Modification date</value>
+  </data>
+  <data name="Property_DateOfBirth" xml:space="preserve">
+    <value>Date of birth</value>
+  </data>
+  <data name="Property_Driver" xml:space="preserve">
+    <value>Driver</value>
+  </data>
+  <data name="Property_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Property_FirstName" xml:space="preserve">
+    <value>Firstname</value>
+  </data>
+  <data name="Property_FullName" xml:space="preserve">
+    <value>Fullname</value>
+  </data>
+  <data name="Property_Gendor" xml:space="preserve">
+    <value>Gendor</value>
+  </data>
+  <data name="Property_IdentificationNumber" xml:space="preserve">
+    <value>Identification Number</value>
+  </data>
+  <data name="Property_Label" xml:space="preserve">
+    <value>Label</value>
+  </data>
+  <data name="Property_LastName" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
+  <data name="Property_Modified" xml:space="preserve">
+    <value>Modification date</value>
+  </data>
+  <data name="Property_Modifier" xml:space="preserve">
+    <value>Modifier</value>
+  </data>
+  <data name="Property_Owner" xml:space="preserve">
+    <value>Owner</value>
+  </data>
+  <data name="Property_PhoneNo" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="Property_RentedFrom" xml:space="preserve">
+    <value>Rented From</value>
+  </data>
+  <data name="Property_RentedTo" xml:space="preserve">
+    <value>Rented to</value>
+  </data>
+  <data name="Property_Specialization" xml:space="preserve">
+    <value>Specialization</value>
+  </data>
+  <data name="Property_Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="Title_AddVehicle" xml:space="preserve">
+    <value>Add Vehicle</value>
+  </data>
 </root>

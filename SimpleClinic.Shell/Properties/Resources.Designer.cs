@@ -8,10 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SimpleClinic.Shell.Properties
-{
-
-
+namespace SimpleClinic.Shell.Properties {
+    using System;
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -19,52 +19,458 @@ namespace SimpleClinic.Shell.Properties
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources
-    {
-
+    public class Resources {
+        
         private static global::System.Resources.ResourceManager resourceMan;
-
+        
         private static global::System.Globalization.CultureInfo resourceCulture;
-
+        
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
-        internal Resources()
-        {
+        internal Resources() {
         }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager
-        {
-            get
-            {
-                if ((resourceMan == null))
-                {
+        public static global::System.Resources.ResourceManager ResourceManager {
+            get {
+                if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SimpleClinic.Shell.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
             }
         }
-
+        
         /// <summary>
         ///   Overrides the current thread's CurrentUICulture property for all
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture
-        {
-            get
-            {
+        public static global::System.Globalization.CultureInfo Culture {
+            get {
                 return resourceCulture;
             }
-            set
-            {
+            set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Copy.
+        /// </summary>
+        public static string Command_Copy {
+            get {
+                return ResourceManager.GetString("Command_Copy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete.
+        /// </summary>
+        public static string Command_Delete {
+            get {
+                return ResourceManager.GetString("Command_Delete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Edit.
+        /// </summary>
+        public static string Command_Edit {
+            get {
+                return ResourceManager.GetString("Command_Edit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Empty fields.
+        /// </summary>
+        public static string Command_EmptyFields {
+            get {
+                return ResourceManager.GetString("Command_EmptyFields", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Export excel.
+        /// </summary>
+        public static string Command_ExportExcel {
+            get {
+                return ResourceManager.GetString("Command_ExportExcel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Favorite.
+        /// </summary>
+        public static string Command_Favorite {
+            get {
+                return ResourceManager.GetString("Command_Favorite", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Displayed columns.
+        /// </summary>
+        public static string Command_GridColumnsChooser {
+            get {
+                return ResourceManager.GetString("Command_GridColumnsChooser", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete Filters.
+        /// </summary>
+        public static string Command_GridDeleteFilters {
+            get {
+                return ResourceManager.GetString("Command_GridDeleteFilters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filter.
+        /// </summary>
+        public static string Command_GridFilter {
+            get {
+                return ResourceManager.GetString("Command_GridFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filter editor.
+        /// </summary>
+        public static string Command_GridFilterEditor {
+            get {
+                return ResourceManager.GetString("Command_GridFilterEditor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Table appearance.
+        /// </summary>
+        public static string Command_GridLayout {
+            get {
+                return ResourceManager.GetString("Command_GridLayout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Reset the appearance.
+        /// </summary>
+        public static string Command_GridResetLayout {
+            get {
+                return ResourceManager.GetString("Command_GridResetLayout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Saved filters.
+        /// </summary>
+        public static string Command_GridSavedFilters {
+            get {
+                return ResourceManager.GetString("Command_GridSavedFilters", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save the filter.
+        /// </summary>
+        public static string Command_GridSaveFilter {
+            get {
+                return ResourceManager.GetString("Command_GridSaveFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save the appearance.
+        /// </summary>
+        public static string Command_GridSaveLayout {
+            get {
+                return ResourceManager.GetString("Command_GridSaveLayout", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to New.
+        /// </summary>
+        public static string Command_New {
+            get {
+                return ResourceManager.GetString("Command_New", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Refresh.
+        /// </summary>
+        public static string Command_Refresh {
+            get {
+                return ResourceManager.GetString("Command_Refresh", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save.
+        /// </summary>
+        public static string Command_Save {
+            get {
+                return ResourceManager.GetString("Command_Save", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save &amp; Close.
+        /// </summary>
+        public static string Command_SaveAndClose {
+            get {
+                return ResourceManager.GetString("Command_SaveAndClose", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Save &amp; New.
+        /// </summary>
+        public static string Command_SaveAndNew {
+            get {
+                return ResourceManager.GetString("Command_SaveAndNew", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Error.
+        /// </summary>
+        public static string Error {
+            get {
+                return ResourceManager.GetString("Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Count={0}.
+        /// </summary>
+        public static string GridControl_ItemsCount {
+            get {
+                return ResourceManager.GetString("GridControl_ItemsCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Selected={0}.
+        /// </summary>
+        public static string GridControl_SelectedItemsCount {
+            get {
+                return ResourceManager.GetString("GridControl_SelectedItemsCount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Address.
+        /// </summary>
+        public static string Property_Address {
+            get {
+                return ResourceManager.GetString("Property_Address", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creation date.
+        /// </summary>
+        public static string Property_Created {
+            get {
+                return ResourceManager.GetString("Property_Created", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creator.
+        /// </summary>
+        public static string Property_Creator {
+            get {
+                return ResourceManager.GetString("Property_Creator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Creation date.
+        /// </summary>
+        public static string Property_DateCreation {
+            get {
+                return ResourceManager.GetString("Property_DateCreation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modification date.
+        /// </summary>
+        public static string Property_DateModification {
+            get {
+                return ResourceManager.GetString("Property_DateModification", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Date of birth.
+        /// </summary>
+        public static string Property_DateOfBirth {
+            get {
+                return ResourceManager.GetString("Property_DateOfBirth", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Driver.
+        /// </summary>
+        public static string Property_Driver {
+            get {
+                return ResourceManager.GetString("Property_Driver", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Email.
+        /// </summary>
+        public static string Property_Email {
+            get {
+                return ResourceManager.GetString("Property_Email", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Firstname.
+        /// </summary>
+        public static string Property_FirstName {
+            get {
+                return ResourceManager.GetString("Property_FirstName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fullname.
+        /// </summary>
+        public static string Property_FullName {
+            get {
+                return ResourceManager.GetString("Property_FullName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Gendor.
+        /// </summary>
+        public static string Property_Gendor {
+            get {
+                return ResourceManager.GetString("Property_Gendor", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Identification Number.
+        /// </summary>
+        public static string Property_IdentificationNumber {
+            get {
+                return ResourceManager.GetString("Property_IdentificationNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Label.
+        /// </summary>
+        public static string Property_Label {
+            get {
+                return ResourceManager.GetString("Property_Label", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lastname.
+        /// </summary>
+        public static string Property_LastName {
+            get {
+                return ResourceManager.GetString("Property_LastName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modification date.
+        /// </summary>
+        public static string Property_Modified {
+            get {
+                return ResourceManager.GetString("Property_Modified", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Modifier.
+        /// </summary>
+        public static string Property_Modifier {
+            get {
+                return ResourceManager.GetString("Property_Modifier", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Owner.
+        /// </summary>
+        public static string Property_Owner {
+            get {
+                return ResourceManager.GetString("Property_Owner", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Phone.
+        /// </summary>
+        public static string Property_PhoneNo {
+            get {
+                return ResourceManager.GetString("Property_PhoneNo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rented From.
+        /// </summary>
+        public static string Property_RentedFrom {
+            get {
+                return ResourceManager.GetString("Property_RentedFrom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rented to.
+        /// </summary>
+        public static string Property_RentedTo {
+            get {
+                return ResourceManager.GetString("Property_RentedTo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Specialization.
+        /// </summary>
+        public static string Property_Specialization {
+            get {
+                return ResourceManager.GetString("Property_Specialization", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Username.
+        /// </summary>
+        public static string Property_Username {
+            get {
+                return ResourceManager.GetString("Property_Username", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Add Vehicle.
+        /// </summary>
+        public static string Title_AddVehicle {
+            get {
+                return ResourceManager.GetString("Title_AddVehicle", resourceCulture);
             }
         }
     }

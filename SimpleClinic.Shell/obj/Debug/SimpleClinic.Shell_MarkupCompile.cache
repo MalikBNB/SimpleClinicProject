@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\App.xaml
-3998114042
+161772463918
 
-72072537948
-17-817792664
-MainWindow.xaml;Views\Persons\PersonManageWindw.xaml;Views\Persons\PersonsUc.xaml;
+20749127953
+39-493168891
+MainWindow.xaml;Resources\ViewResource.xaml;Views\Appointment\AppointmentManageWindow.xaml;Views\Appointment\AppointmentUc.xaml;Views\Doctor\DoctorManageWindow.xaml;Views\Doctor\DoctorUc.xaml;Views\MedicalRecord\MedicalRecordManageWindow.xaml;Views\MedicalRecord\MedicalRecordUc.xaml;Views\Payment\PaymentManageWindow.xaml;Views\Payment\PaymentUc.xaml;Views\Persons\PersonManageWindw.xaml;Views\Persons\PersonsUc.xaml;Views\Prescription\PrescriptionManageWindow.xaml;Views\Prescription\PrescriptionUc.xaml;Views\Ptient\PatientManageWindow.xaml;Views\Ptient\PatientUc.xaml;
 
 False
 

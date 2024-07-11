@@ -19,7 +19,7 @@ namespace SimpleClinic.Data.Layers
             Database.CreateIfNotExists();
 
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<AppDbContext, Configuration>());
-            Database.Initialize(false);
+            //Database.Initialize(false);
         }
 
 

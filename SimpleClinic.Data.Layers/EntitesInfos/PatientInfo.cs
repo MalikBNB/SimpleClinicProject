@@ -13,7 +13,19 @@ namespace SimpleClinic.Data.Layers.EntitesInfos
 
         public int PersonId { get; set; }
 
-        public virtual Person Person { get; set; }
+        public string FirstName { get; set; }
+
+        public string LastName { get; set; }
+
+        public DateTime DateOfBirth { get; set; }
+
+        public string Gendor { get; set; }
+
+        public string PhoneNo { get; set; }
+
+        public string Email { get; set; }
+
+        public string Address { get; set; }
 
         public int? CreatorId { get; set; }
 

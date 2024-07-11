@@ -1,6 +1,19 @@
 ﻿
-
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\App.xaml;;
 FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\MainWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Resources\ViewResource.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Appointment\AppointmentManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Appointment\AppointmentUc.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Doctor\DoctorManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Doctor\DoctorUc.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\MedicalRecord\MedicalRecordManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\MedicalRecord\MedicalRecordUc.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Payment\PaymentManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Payment\PaymentUc.xaml;;
 FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Persons\PersonManageWindw.xaml;;
 FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Persons\PersonsUc.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Prescription\PrescriptionManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Prescription\PrescriptionUc.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Ptient\PatientManageWindow.xaml;;
+FD:\MyProjects\SimpleClinicProject\SimpleClinic.Shell\Views\Ptient\PatientUc.xaml;;
 

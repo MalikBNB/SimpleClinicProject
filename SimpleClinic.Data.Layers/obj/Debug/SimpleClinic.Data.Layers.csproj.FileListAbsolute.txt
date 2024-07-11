@@ -10,5 +10,3 @@ D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\bin\Debug\EntityFrame
 D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleCl.D0033918.Up2Date
 D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.dll
 D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.pdb
-D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.Migrations.InitialCreate.resources
-D:\MyProjects\SimpleClinicProject\SimpleClinic.Data.Layers\obj\Debug\SimpleClinic.Data.Layers.csproj.GenerateResource.cache

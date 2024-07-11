@@ -15,7 +15,7 @@ namespace SimpleClinic.Data.Layers.Entities
 
         [Index(IsUnique = true)]
         [StringLength(1000)]
-        public string Username1 { get; set; }
+        public string Username { get; set; }
 
         public string Password { get; set; }
 

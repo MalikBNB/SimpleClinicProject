@@ -59,6 +59,42 @@ namespace SimpleClinic.Shell.Views.Persons
         protected void OnPropertyChanged([CallerMemberName] string name = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
-        }       
+        }
+
+        private void AddPerson_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void EditPerson_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void DeletePerson_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void RefreshPerson_ItemClick(object sender, DevExpress.Xpf.Bars.ItemClickEventArgs e)
+        {
+
+        }
+
+        private void ManageGridControl_ItemsSourceChanged(object sender, DevExpress.Xpf.Grid.ItemsSourceChangedEventArgs e)
+        {
+
+        }
+
+        private void TableView_RowDoubleClick(object sender, DevExpress.Xpf.Grid.RowDoubleClickEventArgs e)
+        {
+
+        }
+
+        private void TableView_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
+
     }
 }

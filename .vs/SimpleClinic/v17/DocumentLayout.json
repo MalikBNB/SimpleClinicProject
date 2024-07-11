@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\MyProjects\\SimpleClinicProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\views\\ptient\\patientuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\views\\ptient\\patientuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\utils\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\utils\\icons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\views\\ptient\\patientuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\views\\ptient\\patientuc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\resources\\viewresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\resources\\viewresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\views\\persons\\personsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\views\\persons\\personsuc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6A76493E-1CD0-4517-964C-6DB8CFC14843}|SimpleClinic.Data.Bll\\SimpleClinic.Data.Bll.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.data.bll\\entities\\patientbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A76493E-1CD0-4517-964C-6DB8CFC14843}|SimpleClinic.Data.Bll\\SimpleClinic.Data.Bll.csproj|solutionrelative:simpleclinic.data.bll\\entities\\patientbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|d:\\myprojects\\simpleclinicproject\\simpleclinic.shell\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165E66E2-97F6-4265-9F51-839077A22873}|SimpleClinic.Shell\\SimpleClinic.Shell.csproj|solutionrelative:simpleclinic.shell\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Icons.cs",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Utils\\Icons.cs",
+              "RelativeDocumentMoniker": "SimpleClinic.Shell\\Utils\\Icons.cs",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Utils\\Icons.cs",
+              "RelativeToolTip": "SimpleClinic.Shell\\Utils\\Icons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:51:43.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ViewResource.xaml",
               "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Resources\\ViewResource.xaml",
               "RelativeDocumentMoniker": "SimpleClinic.Shell\\Resources\\ViewResource.xaml",
               "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Resources\\ViewResource.xaml",
               "RelativeToolTip": "SimpleClinic.Shell\\Resources\\ViewResource.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T13:18:48.119Z",
+              "WhenOpened": "2024-07-11T15:32:58.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientUc.xaml",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml",
+              "RelativeDocumentMoniker": "SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml",
+              "RelativeToolTip": "SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-11T14:54:45.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientUc.xaml.cs",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml.cs",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml.cs",
+              "RelativeToolTip": "SimpleClinic.Shell\\Views\\Ptient\\PatientUc.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:54:44.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientBLL.cs",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Data.Bll\\Entities\\PatientBLL.cs",
+              "RelativeDocumentMoniker": "SimpleClinic.Data.Bll\\Entities\\PatientBLL.cs",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Data.Bll\\Entities\\PatientBLL.cs",
+              "RelativeToolTip": "SimpleClinic.Data.Bll\\Entities\\PatientBLL.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAwwCoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:00:15.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonsUc.xaml",
-              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Persons\\PersonsUc.xaml",
-              "RelativeDocumentMoniker": "SimpleClinic.Shell\\Views\\Persons\\PersonsUc.xaml",
-              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\Views\\Persons\\PersonsUc.xaml",
-              "RelativeToolTip": "SimpleClinic.Shell\\Views\\Persons\\PersonsUc.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SimpleClinic.Shell\\MainWindow.xaml",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\MainWindow.xaml",
+              "RelativeToolTip": "SimpleClinic.Shell\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-10T13:17:20.095Z",
+              "WhenOpened": "2024-07-11T10:58:31.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SimpleClinic.Shell\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\MyProjects\\SimpleClinicProject\\SimpleClinic.Shell\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SimpleClinic.Shell\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:22:09.339Z",
               "EditorCaption": ""
             }
           ]

@@ -9,6 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using DevExpress.Xpf.DXBinding;
 using SimpleClinic.Shell.Views.Prescription;
 using System;
 using System.Diagnostics;

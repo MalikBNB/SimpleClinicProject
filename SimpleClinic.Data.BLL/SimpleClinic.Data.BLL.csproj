@@ -57,7 +57,7 @@
     <Compile Include="Entities\PaymentBll.cs" />
     <Compile Include="Entities\PersonBLL.cs" />
     <Compile Include="Entities\PrescriptionBll.cs" />
-    <Compile Include="Entities\PtientBLL.cs" />
+    <Compile Include="Entities\PatientBLL.cs" />
     <Compile Include="Entities\UserBll.cs" />
     <Compile Include="SharedBll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -66,10 +66,6 @@
     <ProjectReference Include="..\SimpleClinic.Data.Layers\SimpleClinic.Data.Layers.csproj">
       <Project>{3267750f-8eb7-402b-9865-101d40197e5b}</Project>
       <Name>SimpleClinic.Data.Layers</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\SimpleClinic.Shell\SimpleClinic.Shell.csproj">
-      <Project>{165e66e2-97f6-4265-9f51-839077a22873}</Project>
-      <Name>SimpleClinic.Shell</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
